@@ -1,0 +1,477 @@
+Titre,Departement,ExperienceRequirements,OffreUrl,Description
+Développeur full stack - Django Python React (H/F),75 - PARIS 11,2 An(s),https://candidat.francetravail.fr/offres/recherche/detail/171XHTN,"La solution Ealico est utilisée par des grandes entreprises dans tous les secteurs de l'industrie en France. Solvay, Tereos, Dalkia, Sanofi, Orano, BASF, Bacardi, Constellium, Verallia... La demande est grandissante et nous devons accompagner de plus en plus de sites industriels dans leur transition en France.
+Aujourd'hui, notre projet d'entreprise est encore plus ambitieux et nous avons décidé d'accélérer son développement.
+
+Nous arrivons à une étape cruciale du développement produit. Le code est bien structuré, les fonctionnalités de base sont présentes et les tests automatisés en fonctionnement. Les améliorations à venir vont apporter une plus-value importante à tous nos utilisateurs. 
+
+Pour assoir notre vision du produit, nous avons besoin d'étoffer l'équipe technique avec des personnes qui se projettent sur le long terme. Nous cherchons un développeur expérimenté fullstack et plutôt orienté back-end, connaissant parfaitement Python et Django et capable de prendre rapidement des responsabilités.
+
+Les principales missions :
+
+- Le développement de nouvelles fonctionnalités
+- Les liaisons avec les outils internes (fait maison en Python Django également)
+- Assurer les évolutions des solutions mises en place"
+Développeur full stack - Django Python React (H/F),75 - PARIS 11,2 An(s),https://candidat.francetravail.fr/offres/recherche/detail/171XHPK,"La solution Ealico est utilisée par des grandes entreprises dans tous les secteurs de l'industrie en France. Solvay, Tereos, Dalkia, Sanofi, Orano, BASF, Bacardi, Constellium, Verallia... La demande est grandissante et nous devons accompagner de plus en plus de sites industriels dans leur transition en France.
+Aujourd'hui, notre projet d'entreprise est encore plus ambitieux et nous avons décidé d'accélérer son développement.
+
+Nous arrivons à une étape cruciale du développement produit. Le code est bien structuré, les fonctionnalités de base sont présentes et les tests automatisés en fonctionnement. Les améliorations à venir vont apporter une plus-value importante à tous nos utilisateurs. 
+
+Pour assoir notre vision du produit, nous avons besoin d'étoffer l'équipe technique avec des personnes qui se projettent sur le long terme. Nous cherchons un développeur expérimenté fullstack et plutôt orienté back-end, connaissant parfaitement Python et Django et capable de prendre rapidement des responsabilités.
+
+Les principales missions :
+
+- Le développement de nouvelles fonctionnalités
+- Les liaisons avec les outils internes (fait maison en Python Django également)
+- Assurer les évolutions des solutions mises en place"
+Développeur IA - Machine learning (H/F),75 - PARIS 11,Débutant accepté,https://candidat.francetravail.fr/offres/recherche/detail/171XHQK,"La solution Ealico est utilisée par des grandes entreprises dans tous les secteurs de l'industrie en France. Solvay, Tereos, Dalkia, Sanofi, Orano, BASF, Bacardi, Constellium, Verallia... La demande est grandissante et nous devons accompagner de plus en plus de sites industriels dans leur transition en France.
+Aujourd'hui, notre projet d'entreprise est encore plus ambitieux et nous avons décidé d'accélérer son développement.
+
+Nous proposons à nos clients une fonctionnalité capable d'extraire les données d'un rapport de contrôle pour les catégoriser et mettre à jour le compte client automatiquement. Pour y parvenir, nous avons un algorithme capable d'extraire les données d'un PDF et de les catégoriser correctement en fonction du type de rapport de contrôle.
+
+Avec les nouvelles technologies d'IA qui se sont développées ces dernières années, nous pensons pouvoir refaire cet algorithme en partant de zéro pour obtenir de meilleurs résultats.
+
+Aujourd'hui le process est digitalisé ce qui permet d'avoir de nombreuses données labélisées.
+
+Principales missions :
+- Choisir et mettre en place la stack technique spécifique à l'IA
+- Développer et optimiser le modèle
+
+La stack technique :
+- Python3, Django (REST)
+- React
+- PostgreSQL
+- RabbitMQ, Celery
+- Gitlab, Docker"
+Développeur front-end - React (H/F),75 - PARIS 11,Débutant accepté,https://candidat.francetravail.fr/offres/recherche/detail/171XHPT,"La solution Ealico est utilisée par des grandes entreprises dans tous les secteurs de l'industrie en France. Solvay, Tereos, Dalkia, Sanofi, Orano, BASF, Bacardi, Constellium, Verallia... La demande est grandissante et nous devons accompagner de plus en plus de sites industriels dans leur transition en France.
+Aujourd'hui, notre projet d'entreprise est encore plus ambitieux et nous avons décidé d'accélérer son développement.
+
+Nous arrivons à une étape cruciale du développement produit. Le code est bien structuré, les fonctionnalités de base sont présentes et les tests automatisés en fonctionnement. Les améliorations à venir vont apporter une plus-value importante à tous nos utilisateurs. 
+
+Pour assoir notre vision du produit, nous avons besoin d'étoffer l'équipe technique avec des personnes qui se projettent sur le long terme. Nous cherchons un développeur expérimenté front-end, connaissant parfaitement React et capable de prendre rapidement des responsabilités. Une connaissance de Python et Django est un plus.
+
+Les principales missions :
+- Le développement de nouvelles fonctionnalités
+- Le développement des tests d'interface avec Cypress
+
+La stack technique :
+- Python3, Django (REST)
+- React
+- PostgreSQL
+- RabbitMQ, Celery
+- Gitlab, Docker"
+ML Ops Engineer (H/F),75 - PARIS 10,2 ans,https://candidat.francetravail.fr/offres/recherche/detail/171CSBM,"Au cœur de notre entreprise, vos principales missions seront d'apporter une contribution directe au CI/CD et configurer des ressources cloud pour publier, déployer, maintenir et exécuter nos modèles et bases de données ML. Vous serez également amené à fournir un support aux data scientists qui exécutent et développent nos modèles.
+
+Responsabilités
+- Concevoir des pipelines de données
+- Prendre en charge l'Infrastructure afin de supporter les systèmes de ML
+- Configurer le stack de production pour les systèmes de ML
+- Déployer des outils et des services qui gèrent la formation et l'inférence du machine learning
+- Très bonne compréhension d'un ou plusieurs frameworks d'orchestration de conteneurs
+- Exposition à Google Cloud Tech (GCS, BQ, Dataflow, Pub/Sub, GKE, VertexAI/KF Pipeline, etc.)
+- Appliquer les meilleures pratiques d'ingénierie logicielle au Machine Learning, y compris le CI/CD, l'automatisation, etc.
+- Soutenir le développement de modèles, avec suivi des expériences, suivi des données, etc.
+- Faciliter le développement et le déploiement de systèmes d'apprentissage automatique de preuve de concept
+- Compréhension de MLOps, cycle de vie de développement de modèles avec connaissance de la formation et pipelines de déploiement pour les solutions de Machine Learning
+- Maintenance des implémentations CI/CD déjà en place
+- Maintenance de la base de données
+
+Qualifications
+- Expérience dans la création de systèmes de bout en bout en tant qu'ingénieur DevOps, ingénieur infrastructure, cloud ingénieur ou ingénieur MLOps
+- Maîtriser Python
+- À l'aise avec l'administration Linux
+- Expérience avec le cloud computing et les systèmes de bases de données
+- Expérience dans le déploiement de services dans Kubernetes
+- Expérience de l'utilisation de Helm
+- Expérience avec les outils MLOps tels que MLFlow, ZenML, 
+- Compréhension des tests logiciels, de l'analyse comparative et de l'intégration continue
+- Bon niveau de français et d'anglais"
+Data Engineer R&D Team (H/F),75 - PARIS 10,1 an,https://candidat.francetravail.fr/offres/recherche/detail/171CNFX,"Nous recherchons un data engineer expérimenté pour rejoindre notre équipe R&D en pleine croissance. 
+Responsabilités
+- Création de data flows
+- Travailler sur le versionnage des données
+- Lancer des flux dans les outils d'orchestration
+- Améliorer les pipelines CI/CD
+- Gestion des dépendances (poetry)
+- Déployer des scripts/modèles créés par des data scientists sur Notebooks
+
+Qualifications
+- 1 à 2 ans d'expérience
+- Maîtrise de Python
+- Expérience avec les systèmes distribués pour manipuler le Big Data (Dask, Spark)
+- Une expérience avec les ML datasets est un plus
+- Expérience en création de pipelines ETL
+- Expérience de travail avec GCP (Google Cloud Platform) sur les principaux services de données (stockage cloud, big query, cloud build, GKE..)
+- Expérience dans l'utilisation d'orchestrateurs (airflow, dagster )
+- Environnement de travail (Linux, Jupyter, Python, Git, Docker, SQL, NoSQL,  )
+- Expérience significative avec Pandas, les technologies SQL et l'écriture de Dockerfiles
+- Bon niveau de français et d'anglais"
+Ingénieur / Ingénieure télécoms,75 - PARIS 02,Débutant accepté,https://candidat.francetravail.fr/offres/recherche/detail/170XPFW,"Nous recherchons des Ingénieur(e)s Télécoms.Les missions proposées sont les suivantes : 
+- Effectuer les tests en suivant les cahiers de charge, 
+- Etre force de propositions sur l'optimisation et l'amélioration des plans de tests en fonction des spécifications clients, de l'évolution des technologies concernées et de l'historique des résultats, 
+- Analyser, investiguer (avec ou sans outils de trace) et classer les anomalies rencontrées, 
+- Gérer en interface avec le client les développeurs pour remonter les anomalies et suivre leur correction si besoin, 
+- Etre le garant de la bonne qualité des rapports de test"
+Senior Software Engineer (H/F),75 - Paris (Dept.),5 An(s),https://candidat.francetravail.fr/offres/recherche/detail/169XMLG,"Nous recherchons notre nouveau ou nouvel(le) Senior Software Engineer pour rejoindre notre équipe d'ingénieurs. L'équipe est déjà composée de 12 membres, répartis en 4 squads. Tu construiras une partie importante de notre plateforme, seras pionnier(e) dans un projet technique ambitieux et grandiras avec l'entreprise.
+Tu seras en charge de tous les composants d'intégration, du back-end au front-end : 
+- Tu concevras et mettras en œuvre des interfaces utilisateurs innovantes pour le contrôle de la plateforme.
+- Tu rejoindras une équipe soudée et collaboreras efficacement à la résolution de problèmes complexes.
+- Tu construiras une partie importante de notre plateforme, seras un pionnier dans un projet technique ambitieux et évolueras avec l'entreprise.
+
+OBJECTIFS
+
+Court terme (4 mois)
+
+Tu as une bonne compréhension du produit.
+Tu as une bonne compréhension de notre architecture et de notre infrastructure Tech.
+Tu comprends et suis le processus de Wakeo pour le produit et les ingénieurs, de la découverte à la sortie de l'incrément.
+Tu crées des liens avec ton équipe.
+Tu déploies de nouveaux incréments, atteignant avec succès les objectifs du sprint.
+
+À long terme
+
+Tu as une bonne compréhension du produit.
+Tu as une vision claire de notre architecture et de notre infrastructure Tech.
+Tu lances de nouvelles fonctionnalités à un rythme rapide.
+Tu participes à la découverte technique de nouvelles fonctionnalités.
+Tu participes à la R&D pour apporter des solutions innovantes à Wakeo.
+
+PROFIL
+Tu es diplômé(e) d'une école d'ingénieur et as au moins 4 à 6 ans d'expérience professionnelle. Une expérience dans une entreprise internationale SaaS B2B est un plus.
+Tu es familier(e) avec la méthodologie agile scrum.
+Tu as un esprit d'ingénieur et de solides connaissances en développement. En particulier sur des frameworks tels que Ruby on Rails, TypeScript, Python, NodeJS, ReactJS et surtout NestJS.
+Tu aides au référencement et à l'absorption de la dette technique, effectues de la R&D pendant tes journées de dev et de prez.
+Tu as de bonnes capacités de communication en étant structuré(e) et persuasif(ve) et capable de prendre des décisions et de les argumenter.
+Bonne gestion de projets ambigus et complexes.
+Tu parles français et anglais.
+Tous nos postes sont ouverts aux personnes en situation de handicap.
+
+Processus de recrutement
+Appel de 30 minutes avec notre Talent Acquisition Manager pour comprendre ton parcours et tes motivations.
+Entretien de 1h30 en face à face (ou à distance) avec notre Engineering Manager pour approfondir le poste et tes compétences.
+Une demi-journée d'immersion chez Wakeo (Paris ou Lyon) pour rencontrer l'équipe et poser toutes tes questions.
+Prise de références auprès des contacts que tu nous fourniras.
+Offre d'emploi."
+DÉVELOPPEUR REACT / REACT DEVELOPER (F/*/M) (H/F),75 - PARIS 12,2 An(s),https://candidat.francetravail.fr/offres/recherche/detail/171YKNL,"Discngine recherche un développeur React.js pour participer à la conception de logiciels scientifiques. Le ou la candidat(e) rejoindront une équipe de R&D interne et/ou une équipe client de l'industrie des sciences de la vie. L'objectif de ces solutions est de faciliter le travail scientifique en fournissant rapidement des applications les plus intégrées et les plus robustes possibles.
+
+Vos responsabilités incluront :
+
+Participer à la conception et au développement d'applications robustes et évolutives en utilisant Node.js et React.js
+
+Participer à des revues de code et contribuer aux choix stratégiques de développement
+
+Participer à l'écriture des tests unitaires
+
+Résoudre les problèmes, déboguer et optimiser les applications pour les performances et l'expérience utilisateur
+
+Participer aux activités SCRUM/Kanban (raffinement, rétrospectives, stand-up, etc.)
+
+Être disposé à se déplacer en Ile de France au moins 1 jour par semaine
+
+Collaboration avec des équipe de R&D chez nos clients de l'industrie pharmaceutique/Cosmétique/Agrochimie
+
+Collaborer avec des équipes interfonctionnelles (python, Oracle, DevOps k8s, .Net) pour définir et implémenter de nouvelles fonctionnalités.
+
+Rester à jour sur les tendances et technologies de l'industrie pour proposer des solutions innovantes"
+DEVELOPPEUR FULL STACK H/F - CDI (H/F),75 - PARIS 08,2 An(s),https://candidat.francetravail.fr/offres/recherche/detail/171WVYL,"La CRPCEN s'est engagée au travers de la Convention d'Objectif et de Gestion à moderniser son système d'information afin de répondre aux évolutions technologiques, aux attentes des usagers, aux objectifs de l'inter-régimes et afin d'être plus efficient en interne.
+
+Vous avez pour mission la réalisation des développements et la conduite des projets SI depuis sa conception jusqu'à la réception dans le but d'obtenir un résultat optimal et conforme aux exigences formulées par le chef de projet MOA ou le client métier en ce qui concerne la qualité, les performances, le coût, le délai et la sécurité. 
+En conséquence, vous assurez la réalisation du développement, la rédaction des documents techniques et la coordination de l'équipe technique pour mener à bien les travaux attendus.
+
+Vous êtes responsable du contenu technique du projet :
+- Endosser le rôle de référent technique sur les technologies que vous maitrisez,
+- Participer au choix de la solution technique (progiciel, développement ) en relation avec la maitrise d'ouvrage et le responsable du secteur,
+- Définir la conception technique et rédigez les spécifications techniques détaillées,
+- Assurer la maintenance des produits développés,
+- Définir les tests et participez aux recettes avant livraison à la maitrise d'ouvrage et aux métiers.
+
+Vous assurez le déploiement technique du projet et la mise en œuvre des actions d'accompagnement des utilisateurs :
+- Participer aux choix des méthodes de déploiements,
+- Déployer la nouvelle application ou le nouveau service selon les processus du SI,
+- Accompagner la maitrise d'ouvrage post livraison pour prendre en charge les retours des métiers. 
+
+Vous êtes garant de la meilleure adéquation qualité coût délai :
+- Garantir le respect du cahier des charges et des délais de réalisation,
+- Proposer à la maîtrise d'ouvrage, en cours de projet au besoin, d'éventuelles modifications dans développement liées à des contraintes de réalisation ou des modifications d'environnement,
+- Savoir adapter votre travail à un environnement complexe et multi-projets.
+
+Vous contribuez activement à la démarche qualité et veillez à sa mise en œuvre :
+- Respecter les procédures de l'organisme,
+- Mettre en place tous les indicateurs nécessaires au suivi et à la gestion du projet, notamment sur l'évaluation de la performance, des coûts et des délais.
+
+Vous contribuez activement aux respects des exigences de la Politique de Sécurité du Système d'Information :
+- Mettre en œuvre la politique de sécurité de l'information de l'organisme,
+- Garantir l'analyse et la gestion des risques en matière de sécurité des données et de l'information
+
+Compétences : 
+Formation de niveau BTS/DUT ou école d'ingénieur (bac +5) avec une expérience confirmée d'au moins 2 ans en entreprise.
+La connaissance de l'environnement de la Sécurité sociale serait un plus.
+
+Compétences techniques :
+- Connaissance des principaux langages : Java/J2EE, PHP, Python
+- Connaissance des différents Framework front et back-end (Angular, Node.js),
+- Bonnes notions de l'environnement Linux,
+- Connaissance des bases de données (Oracle, SQL Server ou Postgres sql),
+- Connaissance du SCALA ou Salesforce est un plus,
+- Maitrise des outils de gestion des sources (GIT, GITLAB),
+- Bonne connaissance et/ou maitrise des outils de CI/CD (Jenkins),
+- Conception, modélisation et architecture d'applications,
+- Bonnes notions de la gestion de projets informatiques
+
+Informations complémentaires
+- Niveau VI de la classification des informaticiens des organismes de sécurité sociale
+- Forfait-jour
+- Entre 48 000 et 52 000 euros bruts annuels sur 14 mois, selon profil (y compris forfait-jour)
+- Lieu de travail : 5 Bis rue de Madrid - 75008 PARIS
+- Le candidat retenu devra se conformer aux exigences de la Politique de Sécurité des Systèmes d'Informations de la CRPCEN
+- L'embauche du candidat retenu sera conditionnée au contrôle du CV"
+Développeur Informatique en Supervision (H/F),75 - Paris (Dept.),3 ans,https://candidat.francetravail.fr/offres/recherche/detail/171FJWY,"Nous recherchons un développeur informatique spécialisé en supervision pour rejoindre notre équipe dynamique à Paris. Le candidat retenu sera chargé de concevoir, développer et maintenir des solutions de supervision informatique pour nos clients. Il ou elle travaillera en étroite collaboration avec les équipes techniques pour garantir la fiabilité et la performance des systèmes.
+
+Responsabilités:
+- l'intégration et le développement sur le logiciel de supervision IGNITION (et PCVUE)
+- La mise au point des programmes lors des recettes plateforme / site
+- La rédaction de spécifications (dossier de conception logiciel, des cahiers de recette plateforme et site)
+- Concevoir et développer des solutions de supervision informatique adaptées aux besoins des clients.
+- Assurer la maintenance et l'évolution des applications de supervision existantes.
+- Collaborer avec les équipes techniques pour résoudre les problèmes et optimiser les performances.
+- Participer à la documentation des projets et des processus techniques.
+- Effectuer une veille technologique pour rester à jour sur les dernières avancées dans le domaine de la supervision informatique.
+
+Compétences Requises:
+
+- Maîtrise des langages de programmation (IGNITION, CSS, HTML5, Python, Java, etc.).
+- Connaissance des outils de supervision (Scada, Nagios, Zabbix, etc.).
+- Compétences en bases de données (SQL, NoSQL).
+- Capacité à travailler en équipe et à communiquer efficacement.
+- Autonomie et rigueur dans le travail.
+- Reporting rigoureux, suivi par tâche, rédaction rapport d'activité hebdomadaire 
+- Respect des standards ( documentaire, programmation supervision)
+   
+Conditions:
+
+- Contrat à durée indéterminée (CDI).
+- Salaire compétitif selon profil et expérience.
+- Avantages sociaux (mutuelle, tickets restaurants, etc.).
+- Environnement de travail stimulant et dynamique.
+
+Si vous êtes passionné par le développement informatique et que vous avez une solide expérience en supervision, rejoignez-nous pour relever de nouveaux défis passionnants dans un environnement innovant et en pleine croissance. Envoyez votre CV et lettre de motivation dès maintenant !"
+Tech Lead / Ingénieur(e) Full Stack (H/F),75 - PARIS 01,36 Mois,https://candidat.francetravail.fr/offres/recherche/detail/171WXNW,"Qui sommes-nous ?
+a-gO est une start-up spécialisée dans l'analyse du mouvement humain par intelligence artificielle fondée en 2022 par Alexandre Dalibot, ostéopathe du sport et Hugues Vinzant ingénieur diplômé de l'Ecole polytechnique de Lausanne.
+
+Nous développons des systèmes des capture, d'analyse et de correction du mouvement humain afin d'améliorer durablement la santé et les performances des personnes en accompagnant les professionnels du mouvement dans l'évaluation des interventions proposées et dans le choix de solutions de prise en charge. Nous travaillons en étroite collaboration avec des clubs sportifs professionnels, des cabinets de kinésithérapie et des centres de médecine du sport. L'équipe est composée de 5 personnes et recrute aujourd'hui ses premiers collaborateurs CDI pour participer activement à l'aventure de R&D.
+
+Responsabilités :
+Nous recherchons un(e) Tech Lead / Ingénieur Full Stack, dont la mission principale sera de concevoir et développer de nouvelles fonctionnalités pour les applications développées par a-gO.
+Vous travaillerez au quotidien avec le CTO et le reste de l'équipe technique.
+
+En tant qu'Ingénieur Full Stack & Tech Lead, vous jouerez un rôle clé de bras droit du CTO, apportant votre expertise technique pour orienter le développement de produits de pointe. Vous serez responsable de : 
+
+- Leadership Technique : Collaborer étroitement avec le CTO pour élaborer la vision technique et assurer sa mise en œuvre.
+- Développement Full Stack : Concevoir, développer et déployer des solutions robustes tant côté front-end que back-end.
+- Gestion d'Équipe : Aider au recrutement puis encadrer une équipe technique, les inspirer et les guider pour atteindre des objectifs ambitieux.
+- Optimisation des Performances : Veiller à la qualité du code, à la scalabilité et à la sécurité des applications.
+- Veille Technologique : Restez à l'affût des dernières tendances et technologies pour garantir que notre stack reste à jour et compétitive.
+
+Exigences : 
+- Expérience significative en tant qu'Ingénieur Full Stack, avec une expertise approfondie dans le développement mobile (particulièrement iOS).
+- Solide connaissance des principaux langages et outils de programmation associés au développement (tels que Swift, Flutter, React, SQL, Python, GitHub, Docker, PostgreSQL, AWS)
+- Expérience avérée en tant que Tech Lead, ayant dirigé des équipes de développement.
+- Compréhension approfondie des architectures logicielles, des bases de données et des systèmes de déploiement.
+- Capacité à travailler de manière collaborative, excellente communication et aptitudes en leadership.
+
+Profil Recherché :
+Issu(e) d'une formation BAC+5 (École d'Ingénieur ou Université) dans un domaine relié, avec expérience d'au moins 3 ans à un poste similaire avec :
+- Bon niveau d'anglais
+- Autonomie
+- Esprit entrepreneurial
+- Connaissance du domaine sportif et/ou médical est un plus
+
+Rémunération : Selon profil
+
+Prise de poste : Dès que possible
+
+Localisation : Hybride, idéalement Ile-de-France/région Rennaise (télétravail régulier)
+
+Si vous êtes prêt à relever le défi et à jouer un rôle clé dans le développement technologique de notre entreprise, nous serions ravis de vous rencontrer pour en discuter plus en détail.
+
+Les femmes et les personnes issues de minorités ont tendance à ne postuler qu'aux postes pour lesquels elles remplissent 100 % des critères. Si vous pensez avoir les qualités requises pour être un bon candidat pour ce poste, nous vous encourageons à postuler même si vous ne répondez pas à tous les critères formels."
+Ingénieur-e JAVA (H/F),75 - PARIS 20,3 ans,https://candidat.francetravail.fr/offres/recherche/detail/170RHYS,"Dans le cadre du développement de nos activités auprès de nos partenaires aéronautiques-spatiales, nous recrutons un-e Ingénieur-e JAVA.
+
+Le poste consiste à : 
+-     Participer à toutes les phases de développement du back-end d'une application 
+-     Conduire des d'ateliers de conception 
+-     Rédiger des spécifications 
+-     Mettre en place des tests unitaires au sein d'une pipeline CI/CD 
+
+Cette opportunité professionnelle est aussi à pourvoir en Haute-Garonne (Toulouse).
+
+Idéalement de formation Bac+5 (non-restrictif), vous avez déjà une expérience minimum entre deux et trois ans de pratique ou une passion avérée dans ce domaine. 
+ 
+Philotech France met en place un dispositif innovant de formations sur mesure : seuls la motivation et l'envie comptent !
+Dès le premier entretien, nous définissons ensemble un plan de carrière en adéquation avec vos attentes et nos ambitions.
+
+Connaissances techniques indispensables dans les technologies suivantes : 
+-     Expérience réussie sur le langage JAVA (minimum de 8 à 11) et ses environnements techniques tels que Struts, JFS, Hibernate, Spring, Liferay, JBoss, Eclipse, Talend, etc. 
+-     La maîtrise de Python est un plus 
+-     Maîtrise de l'anglais technique (rédaction et participation aux réunions) 
+
+Si vous avez envie de transformer votre avenir, rejoignez une structure qui mise davantage sur les individus que sur les prérequis!
+Certaines données peuvent relever du domaine militaire et peuvent nécessiter d'une habilitation secret défense. (Comme le stipule les articles R.2311-1 et le Code de la défense et de l'IGI 1300 SGDSN/PSE du 09 août 2021.)"
+Devops (H/F),75 - Paris (Dept.),Débutant accepté,https://candidat.francetravail.fr/offres/recherche/detail/170NQBX,"Missions :
+Au sein de l'équipe infra, vous interviendrez sur un panel de projets au sein d'une équipe constituée d'ingénieurs DEVOPS et d'experts en développement logiciel.
+
+Le poste concerne en particulier la mise en place, le maintien et l'amélioration continue des chaînes de production : espaces (virtuels) de travail, outils d'analyse de code, tests unitaires et automatisation de la validation logicielle.
+Vos responsabilités :
+- Comprendre et analyser les attentes des directions techniques et qualité de Viveris ainsi que des clients ;
+- Définition du processus de la chaîne IC ;
+- Mettre en oeuvre les chaînes d'intégration continue propres à chaque projet ;
+- Mettre en oeuvre les règles et normes de développement spécifiques au secteur (médical, automobile, ferroviaire...) avec l'assistance du responsable de la qualité des projets ;
+- Conseil et expertise métier en clientèle ;
+- Organisateur et participer au maintien en condition opérationnelle des logiciels : veille sécuritaire et d'obsolescence.
+Principales missions
+Profil recherché :
+- De formation Bac +5, vous avez une expérience d'au moins 2 ans en développement de logiciels embarqués ou débarqués ;
+- Vous êtes à l'aise avec les outils CI/CD ;
+- Vous maîtrisez l'administration de système Linux ;
+- Vous aimez travailler en équipe (pluridisciplinaire) et appréciez les environnements multi-projets ;
+- Vous avez le sens du service client.
+
+Compétences techniques :
+- Langage Bash, Python ;
+- Connaissance d'outils d'intégration continue et de gestion de projet logiciel (CodeSonar, Git, Gitlab, Tuleap, Jenkins, Docker...) ;
+- Idéalement connaissance de l'UML ;
+
+ Conditions et avantages :
+- Salaire : 65 à 75k
+- Tickets restaurants 
+- 100 % titre de transport urbain remboursé ;
+Primes d'intéressement, de participation et de cooptation ;
+Télétravail : 2j /semaine"
+Développeur / Développeuse d'affaires (H/F),75 - PARIS 15,Débutant accepté,https://candidat.francetravail.fr/offres/recherche/detail/172DPNQ,"Missions :
+- Élaboration d'une stratégie interne et externe de développement en mettant en avant la promotion des langues africaines dans le but de mieux cibler la diaspora africaine sur le territoire français et à l'international.
+- Prospecter l'ensemble des services internes (commercial, juridique, financier, administratif.) pour étudier les process et les contraintes de chacun.
+- Étudier les indicateurs principaux de l'entreprise : état financier, produits, capacité productive, clients et employés.
+- Effectuer des audits internes pour évaluer les capacités de l'entreprise ainsi que les différents dysfonctionnements.
+- Effectuer des études de marché pour connaître l'environnement dans lequel évolue l'entreprise et mesurer la capacité attractive de celle-ci (étude de l'environnement concurrentiel (étude des entreprises du marché) ainsi que des clients potentiels).
+- Finaliser l'hypothèse de développement en se positionnant sur un nouveau marché (géographique, de production) ou sur de nouveaux clients."
+Ingénieur développeur / Gestion de projet AS400 (H/F),75 - PARIS 14,5 An(s),https://candidat.francetravail.fr/offres/recherche/detail/172CXXX,"Dans le cadre d'un important projet avec un important organisme public, nous recherchons un Ingénieur développeur / gestion de projets AS400 RPG. - PARIS 14
+
+Intégré à une équipe dynamique à taille humaine, vous serez en charge de eéaliser l'ensemble des activités concernant la mise en œuvre d'un projet informatique, de sa conception jusqu'à son déploiement en s'appuyant sur des ressources internes et/ou externes.
+A ce titre, vos principales missions seront les suivantes :
+
+Traduire en solutions informatiques les besoins des utilisateurs et définir l'ensemble des phases
+techniques du projet : réaliser des études fonctionnelles et techniques, rédiger des documentations
+techniques, évaluer les risques et chiffrer le projet, etc.
+
+Garantir la mise en œuvre et piloter l'avancement des projets informatiques : animer les réunions,
+fixer les objectifs et délais de réalisation des livrables, réaliser des tests, corriger les anomalies,
+valider les livrables, etc.
+
+Développer et garantir le bon fonctionnement des applicatifs : assurer la maintenance évolutive et
+corrective, etc.
+
+Assurer l'interface avec les prestataires informatiques
+Participer à la veille technologique
+Participer à la rédaction des procédures internes au service
+Compétences requises :
+De formation supérieure en informatique Vous avez, au moins, 5 ans d'expérience réussie en environnements IBM i (AS400).
+Vous maîtrisez, les langages RPG IV ILE, CL, SQL (DB2).
+Une expérience de XML, des WebServices et de Java ainsi que la connaissance d'Eclipse RDI et ARCAD seraient un plus (Formation et accompagnement interne possible)."
+Ingénieur développeur / Gestion de projet AS400 (H/F),75 - PARIS 14,5 An(s),https://candidat.francetravail.fr/offres/recherche/detail/172CVNS,"Dans le cadre d'un important projet avec un important organisme public, nous recherchons un Ingénieur développeur / gestion de projets AS400 RPG. - PARIS 14
+
+Intégré à une équipe dynamique à taille humaine, vous serez en charge de eéaliser l'ensemble des activités concernant la mise en œuvre d'un projet informatique, de sa conception jusqu'à son déploiement en s'appuyant sur des ressources internes et/ou externes.
+A ce titre, vos principales missions seront les suivantes :
+
+Traduire en solutions informatiques les besoins des utilisateurs et définir l'ensemble des phases
+techniques du projet : réaliser des études fonctionnelles et techniques, rédiger des documentations
+techniques, évaluer les risques et chiffrer le projet, etc.
+
+Garantir la mise en œuvre et piloter l'avancement des projets informatiques : animer les réunions,
+fixer les objectifs et délais de réalisation des livrables, réaliser des tests, corriger les anomalies,
+valider les livrables, etc.
+
+Développer et garantir le bon fonctionnement des applicatifs : assurer la maintenance évolutive et
+corrective, etc.
+
+Assurer l'interface avec les prestataires informatiques
+Participer à la veille technologique
+Participer à la rédaction des procédures internes au service
+Compétences requises :
+De formation supérieure en informatique Vous avez, au moins, 5 ans d'expérience réussie en environnements IBM i (AS400).
+Vous maîtrisez, les langages RPG IV ILE, CL, SQL (DB2).
+Une expérience de XML, des WebServices et de Java ainsi que la connaissance d'Eclipse RDI et ARCAD seraient un plus (Formation et accompagnement interne possible)."
+Ingénieur développeur/ Gestion de projet RPGILE (H/F),75 - PARIS 14,5 An(s),https://candidat.francetravail.fr/offres/recherche/detail/172CTSR,"Dans le cadre d'un important projet avec un important organisme public, nous recherchons un Ingénieur développeur / gestion de projets AS400 RPG. - PARIS 14
+Intégré à une équipe dynamique à taille humaine, vous serez en charge de réaliser l'ensemble des activités concernant la mise en œuvre d'un projet informatique, de sa conception jusqu'à son déploiement en s'appuyant sur des ressources internes et/ou externes.
+A ce titre, vos principales missions seront les suivantes :
+- Traduire en solutions informatiques les besoins des utilisateurs et définir l'ensemble des phases
+techniques du projet : réaliser des études fonctionnelles et techniques, rédiger des documentations
+techniques, évaluer les risques et chiffrer le projet, etc.
+- Garantir la mise en œuvre et piloter l'avancement des projets informatiques : animer les réunions,
+fixer les objectifs et délais de réalisation des livrables, réaliser des tests, corriger les anomalies,
+valider les livrables, etc.
+- Développer et garantir le bon fonctionnement des applicatifs : assurer la maintenance évolutive et
+corrective, etc.
+- Assurer l'interface avec les prestataires informatiques
+- Participer à la veille technologique
+- Participer à la rédaction des procédures internes au service
+
+
+Compétences requises :
+De formation supérieure en informatique Vous avez, au moins, 5 ans d'expérience réussie en environnements IBM i (AS400).
+Vous maîtrisez, les langages RPG IV ILE, CL, SQL (DB2).
+Une expérience de XML, des WebServices et de Java ainsi que la connaissance d'Eclipse RDI et ARCAD seraient un plus (Formation et accompagnement interne possible)."
+Ingénieur programmation GTB-GTC Expérimenté (H/F),75 - PARIS 17,5 An(s),https://candidat.francetravail.fr/offres/recherche/detail/171XRQH,"Les missions du poste
+Tes missions :
+- Tu vas être leader dans le paramétrage spécifique et le support chantier
+- Tu vas prendre en charge les problématiques techniques avancées
+- Tu vas apporter ton expertise dans le traitement des difficultés du bureau d'études
+- Tu vas être garant de la gestion stratégique des besoins en Recherche et Développement (R&D)
+- Tu vas être responsable de la gestion proactive des urgences
+
+Processus de recrutement :
+- Un premier échange en Visio (20 à 30 minutes)
+- Un entretien opérationnel avec la responsable du service ou le directeur général
+- Rencontre avec l'équipe si tu le souhaites
+
+Pourquoi nous rejoindre ?
+- Travailler sur des sujets d'actualité (crise énergétique, transition énergétique et écologique, smart buildings, objets connectés, impact carbone...)
+- Participer à un projet ayant un réel impact sur la société et l'environnement
+- Évoluer et développer ses compétences dans un environnement innovant et technique
+- Rejoindre une équipe jeune, dynamique, passionnée et engagée
+- Collaborer avec des talents d'horizons multiples
+- Et en prime, nous serons heureux que de te compter lors de nos afterworks ou activités sportives avec les collègues !
+- Jette un coup d'oeil à notre page LinkedIn pour en savoir plus : http://****/company/eficia-france/
+- Découvre nos derniers passages dans la presse : https://eficia.com/on-parle-de-nous-nos-retours-presse/
+
+Le profil recherché
+- Tu as déjà eu une expérience de 5 ans minimum en tant qu'Automaticien - Ingénieur programmation GTB
+- Tu es le pilier du bureau d'étude et tu sais être autonome dans tes tâches
+- Tu vas venir en soutien de l'équipe en cas complexité ponctuelle
+- Tu vas être pro actif dans la recherche de solutions pour les chantiers à venir
+- Tu es à l'aise dans avec les chantiers GTB/GTC même sur les sites complexes
+- Tu n'as pas peur des dossiers urgents et tu sais t'organiser en fonction
+- Tu as le sens de l'écoute et un bon relationnel
+
+Infos complémentaires
+- Tickets restaurants
+- Remboursement à 50% du Pass Navigo ou du forfait mobilité
+
+Bienvenue chez Eficia
+Contribue à la transition énergétique et écologique, et au développement du bâtiment connecté et durable.
+Tu auras la charge d'un ou plusieurs clients et tu seras l'interface entre les équipes terrain et le client !
+
+À Propos
+
+EFICIA est une jeune entreprise française innovante spécialisée dans le pilotage énergétique des bâtiments tertiaires.
+
+Pionnière sur le marché de la transition énergétique, elle est la première à avoir développé une solution globale et 100% intégrée capable d'optimiser en temps réel le fonctionnement des équipements CVC et de l'éclairages des bâtiments grâce à des algorithmes intelligents et à une équipe d'énergéticiens disponibles 24/7.
+
+Nous maitrisons toute la chaine de travaux nécessaires à la mise en oeuvre du système de pilotage ainsi que toutes les opérations (de l'installation physique de nos objets connectés à la programmation du système par nos équipes).
+
+Nous automatisons tous les bons réflexes et pilotons donc nous-même la température, la qualité de l'air et l'éclairage des bâtiments dans l'objectif de :
+- Réduire les consommations énergétiques de nos clients de 20% en moyenne
+- Garantir le confort des occupants
+- Faciliter la maintenance grâce notamment aux alertes de panne"
+Développeur / Développeuse informatique (H/F),75 - Paris (Dept.),4 An(s),https://candidat.francetravail.fr/offres/recherche/detail/171XQQX,"Nous recherchons urgemment plusieurs développeurs pour une projet de développement d'applications et maintenance évolutive d'applications autour de C++/C# à Paris. 
+Les applications ont été développées en C++  et il s'agit d'un développement de nouvelles fonctionnalités et de la mise à jour régulière
+ Profil recherché
+Vous avez entre 2 et 5 années d'expérience en tant que développeur C++/C# ou JAVA"
