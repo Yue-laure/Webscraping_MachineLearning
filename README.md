@@ -1,4 +1,9 @@
 #M2 Yue GUO
+# 深度学习项目
+推荐系统｜简历-职位匹配：
+1.爬取法国劳工局招聘启事+领英对应简历
+2.基于 Sentence-BERT 做文本向量化，余弦相似度 Top-K 召回，孪生网络Siamese驱动的简历-职位自动配对。
+
 # Processus d'automatisation du recrutement
 
 Ce document détaille le processus automatisé de récupération, de nettoyage et d'analyse des données pour le recrutement à l'aide du scraping web et de l'apprentissage automatique.
